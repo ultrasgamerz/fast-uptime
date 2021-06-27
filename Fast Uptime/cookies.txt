@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fast-uptime.cf	TRUE	/	FALSE	1999999999	session-name	eyJiYWNrVVJMIjoiL3Atc2VhcmNoIn0=
+fast-uptime.cf	TRUE	/	FALSE	1999999999	session-name.sig	xtgixS1E7CVWkVHeVxRuSgLy3iY
+
